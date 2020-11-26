@@ -11,6 +11,6 @@ int main(){
 	printf("this program is report card\n");
 	
 	printf("sum2 : %d\n", sum);
-	printf("mean : %d\n", sum/3);
+	printf("avg : %d\n", sum/3);
 	return 0;
 }
